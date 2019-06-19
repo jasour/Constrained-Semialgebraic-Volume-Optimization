@@ -7,14 +7,15 @@ Semidefinite Programming for Constrained Semialgebraic Volume Optimization: Appl
 
 We aim at maximizing the volume of a semialgebraic set under some semialgebraic constraints; i.e., let S1(a) and
 S2(a) be semialgebraic sets described by set of polynomial inequalities where "a" denotes the vector of design parameters. 
-The objective is to find a parameter vector "a" such that maximizes the volume of the set S1(a) with respect to distribution mu_x under the constraint S1(a) ⊆ S2(a).
+The objective is to find a parameter vector "a" such that maximizes the volume of the set S1(a) with respect to distribution µ(x) under the constraint S1(a) ⊆ S2(a).
  
 
-Sup_a Volume_{mu_x} (S1(a))\
+Sup_a Volume_{µ(x)} (S1(a))\
 s.t.\
 S1(a)  ⊆ S2(a)
 
 
+ 
 **These are working notes and codes and will be updated.**
 
 **Publications:**
